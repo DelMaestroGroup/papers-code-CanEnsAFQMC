@@ -7,7 +7,8 @@ dependencies = [
     "LaTeXStrings", 
     "DataFrames", 
     "GLM",
-    "BenchmarkTools"
+    "BenchmarkTools",
+    "Measurements"
 ]
 
 Pkg.add(dependencies)
