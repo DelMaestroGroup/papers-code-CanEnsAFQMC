@@ -25,8 +25,14 @@ The creation of these materials was supported in part by the NSF CTMC CAREER Awa
 
 ### Figures
 
-#### Figure 01: Purity Comparison between Ensembles
-<img src="https://github.com/DelMaestroGroup/papers-code-CanEnsAFQMC/tree/main/figures/Purity_Lx6Ly6.pdf" width="400px">
+#### Figure 04: Purity Comparison between Ensembles
+<img src="https://github.com/DelMaestroGroup/papers-code-CanEnsAFQMC/tree/main/figures/Purity_Lx6Ly6.svg" width="400px">
+
+#### Figure 05: Fidelity Demonstrating Convergence to the Ground State
+<img src="https://github.com/DelMaestroGroup/papers-code-CanEnsAFQMC/tree/main/figures/Fidelity_Lx6Ly6.svg" width="400px">
+
+#### Figure 07: Comparison of Charge Structure Factors
+<img src="https://github.com/DelMaestroGroup/papers-code-CanEnsAFQMC/tree/main/figures/Cq_Lx6Ly6_U2_N46.svg" width="400px">
 
 This figure is relesed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
 
