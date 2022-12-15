@@ -28,6 +28,8 @@ The creation of these materials was supported in part by the NSF CTMC CAREER Awa
 
 ### Figures
 
+#### Figure 01: Stability of Different Approaches to Computing a Non-Interacting Fermionic Partition Function
+<img src="https://raw.githubusercontent.com/DelMaestroGroup/papers-code-CanEnsAFQMC/main/figures/logZn_error.svg" width="400px">
 
 #### Figure 02: Runtime Comparison Between Projection and APF Method
 <img src="https://raw.githubusercontent.com/DelMaestroGroup/papers-code-CanEnsAFQMC/main/figures/Runtime.svg" width="400px">
