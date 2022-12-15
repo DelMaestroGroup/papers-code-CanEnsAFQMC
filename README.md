@@ -32,7 +32,5 @@ The creation of these materials was supported in part by the NSF CTMC CAREER Awa
 <img src="https://github.com/DelMaestroGroup/papers-code-CanEnsAFQMC/tree/main/figures/Fidelity_Lx6Ly6.svg" width="400px">
 
 #### Figure 07: Comparison of Charge Structure Factors
-<img src="https://github.com/DelMaestroGroup/papers-code-CanEnsAFQMC/tree/main/figures/Cq_Lx6Ly6_U2_N46.svg" width="400px">
-
-This figure is relesed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+<img src="https://raw.githubusercontent.com/DelMaestroGroup/papers-code-CanEnsAFQMC/main/figures/Cq_Lx6Ly6_U2_N46.svg" width="400px">
 
