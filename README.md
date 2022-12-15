@@ -19,6 +19,8 @@ The data in this project was generated via averaging Monte Carlo sample data.  E
 
 * [Dependency Name](https://dependencelink)
 
+Script dependencies are listed in a [requirements.jl](https://raw.githubusercontent.com/DelMaestroGroup/papers-code-CanEnsAFQMC/main/src/requirements.jl) file.
+
 ### Support
 The creation of these materials was supported in part by the NSF CTMC CAREER Award 2046744 and the NSF under Grant No. DMR-2041995.
 
@@ -26,6 +28,9 @@ The creation of these materials was supported in part by the NSF CTMC CAREER Awa
 
 ### Figures
 
+
+#### Figure 02: Runtime Comparison Between Projection and APF Method
+<img src="https://raw.githubusercontent.com/DelMaestroGroup/papers-code-CanEnsAFQMC/main/figures/Runtime.svg" width="400px">
 
 #### Figure 03: Energy Comparison Between Ensembles
 <img src="https://raw.githubusercontent.com/DelMaestroGroup/papers-code-CanEnsAFQMC/main/figures/Energy_Lx6Ly6.svg" width="400px">
