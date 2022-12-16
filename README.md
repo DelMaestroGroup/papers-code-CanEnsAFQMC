@@ -15,7 +15,7 @@ Many experimentally-accessible, finite-sized interacting quantum systems are mos
 This repository includes links, code, scripts, and data to generate the figures in a paper.
 
 ### Requirements
-The data in this project was generated via averaging Monte Carlo sample data.  Everything included in the [data](https://github.com/DelMaestroGroup/papers-code-CanEnsAFQMC/tree/main/data) directory was processed from the raw data on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7444086.svg)](https://doi.org/10.5281/zenodo.7444086).
+The data in this project was generated via a new auxiliary-field quantum Monte Carlo algorithm in the canonical ensemble: [CanEnsAFQMC](https://github.com/TongSericus/CanEnsAFQMC).  Everything included in the [data](https://github.com/DelMaestroGroup/papers-code-CanEnsAFQMC/tree/main/data) directory was processed from the raw data on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7444086.svg)](https://doi.org/10.5281/zenodo.7444086).
 
 Script dependencies are listed in a [Project.toml](https://raw.githubusercontent.com/DelMaestroGroup/papers-code-CanEnsAFQMC/main/src/Project.toml) file.
 
