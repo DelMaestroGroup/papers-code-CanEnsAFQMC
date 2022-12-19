@@ -1,4 +1,4 @@
-[![Paper](https://img.shields.io/badge/paper-arXiv%3AXXXX.YYYYY-B31B1B.svg)](https://arxiv.org/abs/2212.08654)
+[![Paper](https://img.shields.io/badge/paper-arXiv%3A2212.08654-B31B1B.svg)](https://arxiv.org/abs/2212.08654)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7442967.svg)](https://doi.org/10.5281/zenodo.7442967)
 
 
@@ -6,7 +6,7 @@
 
 Tong Shen, Hatem Barghathi, Jiangyong Yu, Adrian Del Maestro, Brenda M. Rubenstein
 
-[arXiv:XXXX.YYYYY](https://arxiv.org/abs/2212.08654)
+[arXiv:2212.08654](https://arxiv.org/abs/2212.08654)
 
 ### Abstract
 Many experimentally-accessible, finite-sized interacting quantum systems are most appropriately described by the canonical ensemble of statistical mechanics. Conventional numerical simulation methods either approximate them as being coupled to a particle bath, or use projective algorithms which may suffer from non-optimal scaling with system size or large algorithmic prefactors.  In this paper, we introduce a highly stable, recursive Auxiliary Field Quantum Monte Carlo approach that can directly simulate systems in the canonical ensemble.  We apply the method to the fermionic Hubbard model in one and two spatial dimensions in a regime known to exhibit a significant "sign" problem and find improved performance over existing approaches including rapid convergence to ground state expectation values.  The effects of excitations above the ground state are quantified using an estimator-agnostic approach including studying the temperature dependence of the purity and overlap fidelity of the canonical and grand canonical density matrices.  As an important application, we show that thermometry approaches often exploited in ultra-cold atoms that employ an analysis of the velocity distribution in the grand canonical ensemble may be subject to errors leading to an under-estimation of extracted temperatures with respect to the Fermi temperature.
